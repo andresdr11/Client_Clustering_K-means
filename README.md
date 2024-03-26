@@ -31,6 +31,6 @@ The dataset contains 440 samples, with 8 descriptive variables (features):
 - Cluster Visualization: Principal Component Analysis (PCA) is used to reduce the dimensionality of the data to 2D for visualization. Scatterplots are created to visualize the clusters.
 - Cluster Interpretation: Descriptive statistics are computed for each cluster to understand the characteristics of each group.
 - Result Interpretation: Bar plots are created to visualize the average spending on each product category for each cluster.
-- 
+  
 ### Conclusion
 This clustering project demonstrates how K-Means clustering can be used to segment customers based on their purchasing behavior. By identifying distinct customer groups, businesses can develop targeted marketing strategies to better meet the needs of each segment. The project also highlights the importance of data preprocessing, visualization, and interpretation in the clustering process.
